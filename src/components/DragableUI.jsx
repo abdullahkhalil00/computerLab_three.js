@@ -26,7 +26,7 @@ export function DragableUI({
             : "Packet Lost — See Panel"
           : "Move to Right Router";
       case 3: return "Move to Right Laptop";
-      default: return "Reset";
+      default: return "";
     }
   };
 
