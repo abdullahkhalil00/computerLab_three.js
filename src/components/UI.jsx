@@ -137,7 +137,7 @@ export function UI(params) {
   };
 
   const dataLayerDescription = [
-    `We are going to send message from left laptop to right laptop(look around) . You will create message laeyer by layer and transmit it to final destination. Your messages is Hello Server. Click next to send`,
+    `We are going to send message from left laptop to right laptop(look around) . You will create message layer by layer and transmit it to final destination. Your messages is Hello Server. Click next to send`,
     `Application Layer Consist of three things:
 
 1. Application Layer Protocols (HTTP, FTP, SMTP, DNS, DHCP, SNMP, Telnet, SSH, POP3, IMAP)
